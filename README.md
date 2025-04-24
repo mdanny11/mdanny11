@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner1.png" alt="Mazimpaka Danny Banner" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Mazimpaka Danny</h1>
 <h3 align="center">Software Engineering Student | Backend Developer | Open to Opportunities</h3>
 
@@ -44,7 +42,9 @@ Here are some of my highlighted works. Visit my pinned repos to explore more!
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:mdanny892@gmail.com)
 
 ---
-
+<p align="center">
+  <img src="banner1.png" alt="Mazimpaka Danny Banner" />
+</p>
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for stopping by! 😊
