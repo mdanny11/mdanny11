@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Mazimpaka Danny Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Mazimpaka Danny</h1>
 <h3 align="center">Software Engineering Student | Backend Developer | Open to Opportunities</h3>
 
