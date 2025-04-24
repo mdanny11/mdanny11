@@ -48,3 +48,29 @@ Here are some of my highlighted works. Visit my pinned repos to explore more!
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for stopping by! 😊
+
+import qrcode
+from PIL import Image
+
+# Define the GitHub profile URL
+github_url = "https://github.com/mdanny11"
+
+# Generate QR code
+qr = qrcode.QRCode(
+    version=1,
+    error_correction=qrcode.constants.ERROR_CORRECT_H,
+    box_size=10,
+    border=4,
+)
+qr.add_data(github_url)
+qr.make(fit=True)
+
+# Create the image
+img = qr.make_image(fill_color="black", back_color="white")
+
+# Save the image
+qr_path = "/mnt/data/mdanny11_github_qr.png"
+img.save(qr_path)
+
+qr_path
+
